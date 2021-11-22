@@ -21,7 +21,7 @@ public class Main{
                 }
 
             }
-            int factorial = 1;
+            long factorial = 1;
             for (int i = 1; i < inputNum + 1; i++) {
                 factorial *= i;
             }
